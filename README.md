@@ -6,4 +6,4 @@ In the past I've worked on small open source tools for **managing passwords** an
 
 My dream is to ~~delete code~~ every day.
 
-[he/him](https://www.mypronouns.org/he-him)
+[he/him](https://www.mypronouns.org/he-him) • [dots](https://github.com/subdavis/dotfiles)
