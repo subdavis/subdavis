@@ -1,4 +1,4 @@
-## Hello, you.
+Dear reader,
 
 If I had to pick a theme for these projects, it would be *practical tools over elegance*.  I certainly appreciate elegance, but I find myself attracted to messy problems in spaces where users are already entrenched.
 
