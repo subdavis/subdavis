@@ -6,6 +6,4 @@ In the past I've worked on small open source tools for **managing passwords** an
 
 I wish I could ~~delete code~~ every day.
 
-pub [`44DD 0B07 4C0F 6F91`](https://subdavis.com/history/key.txt)
-
-[he/him](https://www.mypronouns.org/he-him) • [dotfiles](https://github.com/subdavis/dotfiles) • [subdavis.com](https://subdavis.com)
+[he/him](https://www.mypronouns.org/he-him) • [dotfiles](https://github.com/subdavis/dotfiles) • [subdavis.com](https://subdavis.com) • [`44DD 0B07 4C0F 6F91`](https://subdavis.com/history/key.txt)
