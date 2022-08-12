@@ -2,5 +2,5 @@ I like to work on subtle problems in spaces where users are already entrenched. 
 
 I wish I could ~~delete code~~ every day.
 
-[he/him](https://www.mypronouns.org/he-him) • [dotfiles](https://github.com/subdavis/dotfiles) • [subdavis.com](https://subdavis.com) • [`44DD 0B07 4C0F 6F91`](https://subdavis.com/history/key.txt)
+[he/him](https://www.mypronouns.org/he-him) • [dotfiles](https://github.com/subdavis/dotfiles) • [subdavis.com](https://subdavis.com) • [goodreads](https://www.goodreads.com/user/show/103087534-brandon) • [`44DD 0B07 4C0F 6F91`](https://subdavis.com/history/key.txt)
 
